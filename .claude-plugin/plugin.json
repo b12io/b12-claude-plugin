@@ -1,0 +1,10 @@
+{
+  "name": "b12-website-generator",
+  "description": "B12 Website Generator plugin allows you to create a professional, engaging, and user-friendly website in seconds using AI. To create a website, you need to provide a name for your project/business, along with a description of the project/business (goals, structure, etc.).",
+  "version": "1.0.0",
+  "author": {
+    "name": "B12.io"
+  },
+  "keywords": ["website", "b12", "hosting", "web-design"],
+  "license": "Apache-2.0"
+}
