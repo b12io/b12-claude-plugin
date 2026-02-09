@@ -8,6 +8,12 @@ Claude automatically uses this skill for generating website link based on the pr
 
 ## Installation
 
+### Claude.ai
+
+1. Download the [website-generator.zip](website-generator.zip) file
+2. Go to **claude.ai** > **Settings** > **Skills**
+3. Upload the zip file
+
 ### Claude Code
 
 ```bash
