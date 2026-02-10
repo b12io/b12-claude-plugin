@@ -17,7 +17,7 @@ Claude automatically uses this skill for generating website link based on the pr
 ### Claude Code
 
 ```bash
-claude --plugin-dir /path/to/b12-website-generator-claude-plugin
+claude --plugin-dir /path/to/b12-claude-plugin
 ```
 
 ### Claude Cowork
