@@ -1,0 +1,25 @@
+{
+  "name": "b12-plugins",
+  "description": "Official B12 plugins for Claude Code",
+  "owner": {
+    "name": "B12.io",
+    "email": "signup@b12.io"
+  },
+  "plugins": [
+    {
+      "name": "b12-claude-plugin",
+      "source": {
+        "source": "github",
+        "repo": "b12io/b12-claude-plugin"
+      },
+      "description": "B12 plugin with two skills: Website Generator (create a B12 website from a brief description) and B12 Website Editor (edit a live B12 site via browser in Claude Cowork).",
+      "author": {
+        "name": "B12.io"
+      },
+      "homepage": "https://b12.io",
+      "repository": "https://github.com/b12io/b12-claude-plugin",
+      "license": "Apache-2.0",
+      "keywords": ["website", "b12", "hosting", "web-design"]
+    }
+  ]
+}
