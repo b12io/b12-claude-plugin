@@ -48,6 +48,13 @@ Install each skill individually:
 
 ### Claude Code
 
+Via the marketplace (recommended):
+```bash
+claude plugin marketplace add b12io/b12-claude-plugin
+claude plugin install b12-claude-plugin@b12-plugins
+```
+
+Or load directly from a local clone:
 ```bash
 claude --plugin-dir /path/to/b12-claude-plugin
 ```
